@@ -3,7 +3,7 @@
 A responsive, visually appealing landing page for the fictional paint brand **ColorCrest Paints**, showcasing product categories with clear CTAs.
 
 ## Live Demo
-Add your Netlify/Vercel deployment link here: `https://your-live-link.example`
+Add your Vercel deployment link here: http://colorcrest-paints-nvrciqk40-sanika-ghugares-projects.vercel.app/
 
 ## Tech Stack
 - HTML5
@@ -21,12 +21,6 @@ Add your Netlify/Vercel deployment link here: `https://your-live-link.example`
 ## Getting Started
 1. Clone or download the repository.
 2. Open `index.html` in your browser — no build step required.
-
-## Deploy (Netlify)
-1. Push to GitHub.
-2. On Netlify, choose **Add new site → Import from Git** and pick your repo.
-3. Leave build settings empty (static site). Click **Deploy**.
-4. Copy the live URL and paste it above in **Live Demo**.
 
 ## Deploy (Vercel)
 1. Push to GitHub.
